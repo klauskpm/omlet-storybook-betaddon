@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "description": "Create a Data Drive Design System with Omlet (Beta).",
   "keywords": [
-    "storybook", "addon", "storybook-addons", "omlet", "data-state", "organize", "react", "storybook-addons"
+    "storybook", "addon", "storybook-addons", "omlet", "data-state", "organize"
   ],
   "repository": {
     "type": "git",
